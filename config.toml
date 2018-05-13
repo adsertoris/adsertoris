@@ -1,0 +1,39 @@
+## Basic Configuration
+baseurl = "https://adsertoris.com/"
+languageCode = "en"
+title = "adsertoris"
+theme = "hyde-hyde"
+
+## Hugo Built-in Features
+# disqusShortname = "your-disqus-shortname"
+# googleAnalytics = "your-google-analytics-id"
+# enableRobotsTXT = true
+
+## Site Settings
+[params]
+    author = "adsertoris"
+    title = "adsertoris"
+    description = ""
+    authorimage = "/img/adsertoris.png"
+    dateformat = "Jan 2, 2006"
+    highlightjs = true
+    # highlightjsstyle = "github"
+    # please choose either GraphComment or Disqus
+    # GraphCommentId = "your-graph-comment-id"
+
+## Social Accounts
+[params.social]
+    github = "adsertoris"
+    email = "adsertoris@protonmail.ch"
+
+## Main Menu
+[[menu.main]]
+    name = "Posts"
+    weight = 100
+    identifier = "posts"
+    url = "/posts/"
+[[menu.main]]
+    name = "About"
+    identifier = "about"
+    weight = 200
+    url = "/about/"
