@@ -1,5 +1,5 @@
 ## Basic Configuration
-baseurl = "https://www.adsertoris.com"
+baseurl = "https://www.adsertoris.com/"
 languageCode = "en"
 title = "adsertoris"
 theme = "hyde-hyde"
