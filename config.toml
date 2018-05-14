@@ -13,18 +13,18 @@ theme = "hyde-hyde"
 [params]
     author = "adsertoris"
     title = "adsertoris"
-    description = ""
+    description = "docendo discimus"
     authorimage = "/img/adsertoris.png"
     dateformat = "Jan 2, 2006"
     highlightjs = true
-    # highlightjsstyle = "github"
+    highlightjsstyle = "github"
     # please choose either GraphComment or Disqus
     # GraphCommentId = "your-graph-comment-id"
 
 ## Social Accounts
 [params.social]
     github = "adsertoris"
-    email = "adsertoris@protonmail.ch"
+    email = "adsertoris@pm.me"
 
 ## Main Menu
 [[menu.main]]

@@ -1,3 +1,3 @@
 # adsertoris
 
-blog built with hugo
+website built with hugo
