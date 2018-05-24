@@ -24,7 +24,6 @@ theme = "hyde-hyde"
 ## Social Accounts
 [params.social]
     github = "adsertoris"
-    twitter = "adsertorem"
     email = "adsertoris@pm.me"
 
 ## Main Menu
